@@ -1,0 +1,17 @@
+.salah{
+    height: 400px;
+    width: 400px;
+    background-image: url("./plan.png");
+    margin: auto;
+}
+.aymen, .mo7{
+    height: 100px;
+    width: 100px;
+    background-color: #d48e5c;
+    margin: 16.5px;
+    float: left;
+    font-size: 100px;
+    text-align: center;
+    border-radius: 50%;
+    
+}
